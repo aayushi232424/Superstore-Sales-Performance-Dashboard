@@ -17,7 +17,7 @@ This project focuses on analyzing Superstore sales data using Microsoft Excel to
 - Data Analysis & Visualization
 
 ## Project Files
-- `` – Excel workbook containing sales data, Pivot Tables, dashboard, and executive summary.
+-Excel workbook containing sales data, Pivot Tables, dashboard, and executive summary.
 
 ## Objective
 To analyze sales data, identify business trends, and present meaningful insights through an interactive Excel dashboard.
